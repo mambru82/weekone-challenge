@@ -9,23 +9,28 @@ body {
 }
 /* changed the previously existing class for header into nav, replaced references to the header class with nav, eliminated unnecessary classes */
 /* Navigation bar style */
-nav {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-nav h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-nav h1 span {
+header h1 span {
     color: #d9dcd6;
 }
 
-nav div {
+header a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +38,11 @@ nav div {
     font-size: 20px;
 }
 
-nav div ul {
+header nav ul {
     list-style-type: none;
 }
 
-nav div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -130,13 +135,13 @@ p {
 
 /* end of to consolidate 2*/
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
