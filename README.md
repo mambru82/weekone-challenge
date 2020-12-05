@@ -6,6 +6,7 @@ This is the homepage of a non-existent social media marketing company by the nam
 
 # Installation
 No installation is required. The website is hosted in the my github as:
+https://mambru82.github.io/weekone-challenge/
 
 # Resources
 
