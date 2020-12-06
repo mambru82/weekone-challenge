@@ -2,7 +2,9 @@
 This is the web deployment of the Week 1 challenge for the Coding Bootcamp at UT Austin.
 
 ====
+
 ![Screenshot of the deployed web site][screenshot]
+
 ====
 
 ## What it does
