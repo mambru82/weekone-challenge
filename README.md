@@ -1,18 +1,14 @@
 # Week One Challenge :  The Horiseon webpage Code Refactor
 This is the web deployment of the Week 1 challenge for the Coding Bootcamp at UT Austin.
 
-====
-
 ![Screenshot of the deployed web site][screenshot]
-
-====
 
 ## What it does
 This is the homepage of a non-existent social media marketing company by the name of Horiseon. 
 
 ## Installation
 No installation is required. 
-The website is [hosted][1] by github 
+The [website][1] is hosted by github 
 
 ## Resources
 - Style sheet  = style.css in ./assets/css/
